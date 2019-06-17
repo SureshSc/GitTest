@@ -4,6 +4,6 @@
 4. Krishna
 5. Yogesh
 6. Auston
-1. Vijay
-2. Ajay
-3. Sam
+7. Vijay
+8. Ajay
+9. Sam
